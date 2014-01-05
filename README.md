@@ -1,5 +1,5 @@
 PMAS
 ====
 
-Pitch machines analysis system
+Pitching machine analysis system
 
