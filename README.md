@@ -4,10 +4,17 @@ PMAS
 Pitching machine analysis system
 
 
+#Upload
+1. youtube
+2. origin movie
+3. picture
+
+
 ##Usage
 
 1. `npm i`
-2. `npm start`
+2. `bower install`
+3. `npm start`
 
 
 ##License
